@@ -25,4 +25,6 @@ export default {
 .home {
     background: #fff;
 }
+// テスト追加です
 </style>
+
